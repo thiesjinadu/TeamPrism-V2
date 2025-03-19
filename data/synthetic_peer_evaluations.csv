@@ -1,0 +1,109 @@
+team_number,rater_student_id,rated_student_id,criterion,feedback
+1,S1_01,S1_01,Inhoudelijke inbreng,"S1_01, 2023.04.25Bent u van mening dat de inhoudelijke inbreng van deze student goed"
+1,S1_01,S1_01,Werkkracht,"S1_01, in het kader van de eindverslag, heeft mijn team een goed verhaal gemaakt van onze activite"
+1,S1_01,S1_01,Teamspeler,Ik vind het geweldig dat je hebt veel inbreng gedaan voor het project en het is een stuk beter als je in de
+1,S1_01,S1_02,Inhoudelijke inbreng,"S1_02, debugging, 1e semester, cursus: Cadeaubonnen in de taal. Onderwerp: Werkkr"
+1,S1_01,S1_02,Werkkracht,"Ik heb een zeer goede werkwijck in de team, en het is geweldig om te werken met je collega's. Je"
+1,S1_01,S1_02,Teamspeler,S1_02Criterium: TeamspelerContext: samenwerkingIk heb een geweldige tijd gehad bij deze
+1,S1_01,S1_03,Inhoudelijke inbreng,"""De student heeft veel gewerkt aan het scraping algoritme. Hij heeft de tijd geinvesteerd in het onderzoeken van de"
+1,S1_01,S1_03,Werkkracht,"S1_03, 3, Werkkracht, de taal en de inhoud van de model zijn goed. De student heeft veel gew"
+1,S1_01,S1_03,Teamspeler,"S1_03, Teamspeler, Planning. Ik heb veel gewerkt aan het algoritme en heb veel input geleverd op"
+1,S1_01,S1_04,Inhoudelijke inbreng,S1_04: forecastInhoudelijke inbreng: niet gewerkt aan het scraping algoritme. vaak foutjes
+1,S1_01,S1_04,Werkkracht,"S1_04, inzake het project met medestudenten, heeft mijn team enorm gewerkt en heeft een geweldige in"
+1,S1_01,S1_04,Teamspeler,"S1_04Teamspeler criteriumNatuurlijk, het team had een uitstekende teamspel. Maar,"
+1,S1_01,S1_05,Inhoudelijke inbreng,S1_05: het is geweldig dat je een deel van het project heeft uitgevoerd en je hebt veel inbreng g
+1,S1_01,S1_05,Werkkracht,"S1_05: Werkkracht, presentatieIk heb de presentatie gemaakt en heb het scraping algoritme goed uitgewer"
+1,S1_01,S1_05,Teamspeler,"S1_05, teamspeler, brainstormsessiesOpmerkingen: - het is niet zo goed als ik had verwacht"
+1,S1_01,S1_06,Inhoudelijke inbreng,S1_06Criterium: Inhoudelijke inbrengContext: onderzoekDeze student heeft een flinke uit
+1,S1_01,S1_06,Werkkracht,"S1_06, ontwerp, 08/09/2023Ik heb de collaboratieve werksessie van de medest"
+1,S1_01,S1_06,Teamspeler,S1_06Criterium: TeamspelerContext: brainstormsessiesIk hoop dat dit feedback is usefull voor jouw
+1,S1_02,S1_01,Inhoudelijke inbreng,S1_01Criterium: Inhoudelijke inbrengContext: data-analyseIk heb veel gewerkt
+1,S1_02,S1_01,Werkkracht,"S1_01, je had veel tijd en energie gestoken in het opbouwen van het algoritme. Ik vind het geweldig dat"
+1,S1_02,S1_01,Teamspeler,S1_01Criterium: TeamspelerContext: communicatieIk ben erg blij met hoe ik mezelf verdedig
+1,S1_02,S1_02,Inhoudelijke inbreng,"S1_02, 02/11/2023Inhoudelijke inbreng criterium:            ""het was niet goed ge"
+1,S1_02,S1_02,Werkkracht,S1_02_02.01.2023 - Werkkracht. Heeft het algoritme goed uitgewerkt en is het
+1,S1_02,S1_02,Teamspeler,"""Voor de presentatie van de projecten was het heel goed dat je veel ingezet had in het planning proces. Je hebt veel tijd"
+1,S1_02,S1_03,Inhoudelijke inbreng,"""De inhoudelijke inbreng was zeer goed en viel aan. Het is geweldig dat ik veel input geleverd heb voor het"
+1,S1_02,S1_03,Werkkracht,"S1_03, Werkkracht. Deze student heeft zich zeer goed ingezet in het project en heeft veel gewerkt."
+1,S1_02,S1_03,Teamspeler,S1_03TeamspelerInhoudelijke inbreng: - Voldoende gewerkt aan het scraping al
+1,S1_02,S1_04,Inhoudelijke inbreng,S1_04: DashboardDashboardInhoudelijke inbrengCriterium: Inhoudelijke inbrengContext
+1,S1_02,S1_04,Werkkracht,Student: S1_04Criterium: WerkkrachtContext: de planningIk heb een uitstekende planning met alle
+1,S1_02,S1_04,Teamspeler,S1_04Criterium: TeamspelerContext: brainstormsessiesIk heb een geweldig teamleider gewerkt
+1,S1_02,S1_05,Inhoudelijke inbreng,S1_05Inhoudelijke inbreng criterium: heeft het project op een goede manier verdergegaanDe
+1,S1_02,S1_05,Werkkracht,"""Deze presentatie is geweldig en ik ben erg tevreden met de prestaties van dit team. De presentatie is goed"
+1,S1_02,S1_05,Teamspeler,Ik vind het geweldig dat je je tijd in de groepsdiscussies hebt gemengd. Het was leuk om te zien dat je je
+1,S1_02,S1_06,Inhoudelijke inbreng,"S1_06, inzichtelijk over het project en de taken van de student. Hij werkte goed aan het scraping algoritme en"
+1,S1_02,S1_06,Werkkracht,"""Deze student heeft belangrijke bijdrage geleverd aan het ontwerp van het project en heeft veel gewerkt aan het al"
+1,S1_02,S1_06,Teamspeler,S1_06Teamspeler criteriumInhoudelijke inbreng criteriumVoorbeeld van een positieve feedback:
+1,S1_03,S1_01,Inhoudelijke inbreng,"S1_01, debuggenInhoudelijke inbreng: Veel gewerkt aan het scraping algoritme, regel"
+1,S1_03,S1_01,Werkkracht,"S1_01: ""Heel gewerkt aan het project en had veel tijd besteed aan het ontwerp van het algoritme."
+1,S1_03,S1_01,Teamspeler,S1_01Criterium: TeamspelerContext: gezamenlijke ontwikkelingIk heb een geweldige tijd
+1,S1_03,S1_02,Inhoudelijke inbreng,Ik vind het geweldig dat je tijdens de werksessie aan het project hebt gewerkt en je hebt een goede inbreng ge
+1,S1_03,S1_02,Werkkracht,"Deze student heeft veel ingezet in het project, maar heeft ook een aantal fouten gemaakt. De student heeft het algoritme niet"
+1,S1_03,S1_02,Teamspeler,Deze student heeft veel ingezet in het team en heeft zich aangesproken tijdens de werksessies. Hij heeft een goede
+1,S1_03,S1_03,Inhoudelijke inbreng,"S1_03Inhoudelijke inbreng: ""werkte aan het scraping algoritme, maar veel foutjes gemaakt,"
+1,S1_03,S1_03,Werkkracht,S1_03PlanningCriterium: WerkkrachtIk vind dat ik veel tijd besteed heb aan het ontwerp van
+1,S1_03,S1_03,Teamspeler,"S1_03, teamspeler, communicatie, communicatie, 20 januari 2023. Ik heb een teamges"
+1,S1_03,S1_04,Inhoudelijke inbreng,"Ik vind de inhoudelijke inbreng van de medestudent heel goed, de prestaties zijn in het algemeen goed, maar"
+1,S1_03,S1_04,Werkkracht,"S1_04, werkt goed aan het project. Gave veel inbreng en was snel klaar met de presentatie. Heeft"
+1,S1_03,S1_04,Teamspeler,S1_04Criterium: TeamspelerContext: gezamenlijke ontwikkelingIk heb veel gewerkt aan
+1,S1_03,S1_05,Inhoudelijke inbreng,S1_05Inhoudelijke inbreng criterium: bijna niet gewerkt aan het scraping algoritme. vaak
+1,S1_03,S1_05,Werkkracht,Student: S1_05Criterium: WerkkrachtContext: de implementatieHet is belangrijk om te weten dat
+1,S1_03,S1_05,Teamspeler,"S1_05Criterium: TeamspelerContext: planningHeel goed, ik heb het project goed gevolgd en"
+1,S1_03,S1_06,Inhoudelijke inbreng,Ik vind het geweldig dat je veel tijd besteed hebt aan het project en heb je al veel goede ideeën voor het project. Ik ben
+1,S1_03,S1_06,Werkkracht,"""Deze student heeft een goede prestatie geleverd in het algemeen. Ze is in staat om verschillende taken uit te vo"
+1,S1_03,S1_06,Teamspeler,Student: S1_06Criterium: TeamspelerContext: communicatieIk vind het belangrijk dat je in je feedback
+1,S1_04,S1_01,Inhoudelijke inbreng,"S1_01AIDeze student heeft een goede inbreng in het project, maar heeft een paar gebrekken aangehang"
+1,S1_04,S1_01,Werkkracht,"""Deze student heeft veel ingezet in het project en heeft veel gewerkt. De prestaties zijn prima en de taal en"
+1,S1_04,S1_01,Teamspeler,"Deze student heeft veel ingezet in het project, en is een goede teamspeler. De student heeft de taken goed uitgevoerd"
+1,S1_04,S1_02,Inhoudelijke inbreng,"""Deze student heeft veel ingegrepen in het project en heeft een goede inbreng gedaan. Ze is veel gewerkt"
+1,S1_04,S1_02,Werkkracht,S1_02Werkkracht criterium: het teamleider was niet aanspreekbaar tijdens de activiteiten.
+1,S1_04,S1_02,Teamspeler,S1_02Criterium: TeamspelerContext: gezamenlijke ontwikkelingDeze student heeft een geweld
+1,S1_04,S1_03,Inhoudelijke inbreng,"S1_03: DashboardDashboard is een belangrijke component van het project, dus het is belangrijk dat je inhoudelijke in"
+1,S1_04,S1_03,Werkkracht,"S1_03, werkt goed aan het scraping algoritme. Zeer nauwkeurig en veel gewerkt aan de output"
+1,S1_04,S1_03,Teamspeler,"S1_03, 08/05/2023Teamspeler: een uitstekende teamleider, maar soms niet"
+1,S1_04,S1_04,Inhoudelijke inbreng,S1_04Criterium: Inhoudelijke inbrengContext: designIk hoop dat deze feedback zorgvuld
+1,S1_04,S1_04,Werkkracht,"Deze student heeft veel inbreng gedaan en heeft het team goed aangezien. Echter, zijn we in de loop van"
+1,S1_04,S1_04,Teamspeler,S1_04: Teamspeler criteriumContext: ProbleemoplossingHeeft het team een goede teamleider gewe
+1,S1_04,S1_05,Inhoudelijke inbreng,"S1_05, 10/05/2023Inhoudelijke inbreng: Ik heb veel gewerkt aan het"
+1,S1_04,S1_05,Werkkracht,"S1_05, 05/03/2023. (geen tekst, maar een foto van een student die een document heeft bijged"
+1,S1_04,S1_05,Teamspeler,"""Deze student heeft veel gewerkt aan het algoritme en heeft het goed uitgewerkt. Hij heeft ook veel input gelever"
+1,S1_04,S1_06,Inhoudelijke inbreng,Ik heb heel veel gewerkt aan het project en ben heel erg opgeleerd. Ik heb heel veel tijd en energie besteed aan het
+1,S1_04,S1_06,Werkkracht,S1_06: 5/5Student: S1_06Criterium: WerkkrachtContext: de documentatie
+1,S1_04,S1_06,Teamspeler,S1_06Criterium: TeamspelerContext: groepsdiscussiesHoud in overweging de specifie
+1,S1_05,S1_01,Inhoudelijke inbreng,"S1_01, 2023-02-20Deze student heeft het scraping algoritme goed uitgewerkt en heeft veel"
+1,S1_05,S1_01,Werkkracht,"S1_01: - Werkkracht: een goede presentatie, maar de presentatie was een stuk te lang- Teamsp"
+1,S1_05,S1_01,Teamspeler,S1_01Criterium: TeamspelerContext: brainstormsessiesIk heb de brainstormsessies gehouden met een gro
+1,S1_05,S1_02,Inhoudelijke inbreng,S1_02Criterium: Inhoudelijke inbrengContext: debuggingIk vind het geweldig dat je tijdens
+1,S1_05,S1_02,Werkkracht,"S1_02, cursus: Data Science, werksessie: Visualisatie, tijd: 2 uur. Ik heb de ge"
+1,S1_05,S1_02,Teamspeler,"""Deze student heeft veel ingezet in het project en heeft het team goed samengewerkt. Ze heeft een goede insteek"
+1,S1_05,S1_03,Inhoudelijke inbreng,Student S1_03AIInhoudelijke inbrengIk heb mijn taken goed aangepast en heb veel gewerkt
+1,S1_05,S1_03,Werkkracht,Deze student heeft de inhoudelijke inbrengspreking van het project goed geïntegreerd en heeft veel gewerkt
+1,S1_05,S1_03,Teamspeler,Student: S1_03Criterium: TeamspelerContext: deadline-momentenIk heb het project met veel moe
+1,S1_05,S1_04,Inhoudelijke inbreng,"- ""Ik hoop dat je de inhoudelijke inbreng van je teamleider heeft verhoogd en dat je zijn nieuwe idee"
+1,S1_05,S1_04,Werkkracht,S1_04Criterium: WerkkrachtContext: het eindverslagIk vind het niet zo goed als ik had
+1,S1_05,S1_04,Teamspeler,Ik vind het geweldig dat je veel ingezet hebt in het ontwikkelen van het scraping-algoritme. Je hebt heel veel in
+1,S1_05,S1_05,Inhoudelijke inbreng,"Deze student heeft goede inbreng aan het project, maar heeft sommige taken niet goed uitgevoerd. Bijvoorbeeld heeft de"
+1,S1_05,S1_05,Werkkracht,Ik heb de volgende inzichten over de prestaties van de medestudent: het model is goed uitgewerkt en heeft veel
+1,S1_05,S1_05,Teamspeler,"S1_05Teamspeler criterium:- Werkkracht    ""kwam regelmatig te laat opdagen en"
+1,S1_05,S1_06,Inhoudelijke inbreng,S1_06: Inhoudelijke inbrengNationale kwaliteit: 9/10Nationale nauwkeur
+1,S1_05,S1_06,Werkkracht,"Deze analyses waren heel goed, ik had veel tijd besteed aan het onderzoeken van het algoritme en het bouwen van de present"
+1,S1_05,S1_06,Teamspeler,"""Deze student heeft een goed gemaakte indruk op me. Ze heeft veel ingezet en heeft een goede inbreng in het"
+1,S1_06,S1_01,Inhoudelijke inbreng,"S1_01, Inhoudelijke inbreng. De student heeft veel ingezet in het project en heeft een goede insteek"
+1,S1_06,S1_01,Werkkracht,"S1_01 WerkkrachtDeze student heeft de analyses goed gedaan, maar heeft niet genoeg gewerkt aan"
+1,S1_06,S1_01,Teamspeler,Ik hoop dat ik de student vindt en dat ik de feedback kan geven die nodig is om deze student te helpen. Ik heb een
+1,S1_06,S1_02,Inhoudelijke inbreng,"S1_02, 02/04/20, Inhoudelijke inbreng, data-analyse, regelmatig een"
+1,S1_06,S1_02,Werkkracht,"S1_02, 02/02/2023. Vandaag was de collaboratieve werksessie waarbij ik een team"
+1,S1_06,S1_02,Teamspeler,"S1_02, Teamspeler, Brainstormsessies, activiteiten. De prestaties van S1_02 zijn als vol"
+1,S1_06,S1_03,Inhoudelijke inbreng,Ik hoop dat mijn feedback een goede start is voor de evaluatie van deze student. Ik wilde een paar dingen aan deze student en de team
+1,S1_06,S1_03,Werkkracht,"S1_03, evaluatieverslag, eindverslag, 2023. Heb je het eindverslag van je"
+1,S1_06,S1_03,Teamspeler,S1_03Criterium: TeamspelerContext: groepsdiscussies- Voldoende ingebouw
+1,S1_06,S1_04,Inhoudelijke inbreng,Ik heb de website van de student verder ontwikkeld en heb veel nieuwe inbreng gedaan. Ik heb veel tijd besteed
+1,S1_06,S1_04,Werkkracht,"""Deze student heeft veel ingezet in het project en heeft het team goed samengewerkt. Hij is echter nog niet kla"
+1,S1_06,S1_04,Teamspeler,Student: S1_04Criterium: TeamspelerContext: groepsdiscussiesIk vind het geweldig hoe je
+1,S1_06,S1_05,Inhoudelijke inbreng,"""Deze student heeft veel ingezet in het project en heeft een goede inbreng gedaan. De student heeft een goede werkm"
+1,S1_06,S1_05,Werkkracht,"S1_05Criterium: WerkkrachtUw reactie: ""Helemaal goed gewerkt aan het algorit"
+1,S1_06,S1_05,Teamspeler,S1_05Criterium: TeamspelerContext: probleemoplossingIk vind het fijn dat je de taken
+1,S1_06,S1_06,Inhoudelijke inbreng,Ik hoop dat ik de inhoudelijke inbreng van mijn medestudent heeft geïntegreerd op een manier die aans
+1,S1_06,S1_06,Werkkracht,"S1_06 WerkkrachtDeze student heeft veel ingezet in het project, maar er zijn enkele belangrijke"
+1,S1_06,S1_06,Teamspeler,"""De student heeft veel ingezet en heeft veel gewerkt. Ze is een goede teamspeler en heeft zich volledig ingez"

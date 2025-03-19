@@ -1,0 +1,109 @@
+team_number,rater_student_id,rated_student_id,criterion,feedback
+1,S1_01,S1_01,Inhoudelijke inbreng,"S1_01: Bijna niets gewerkt aan het algoritme, enkel schetsen gemaakt. **Criter"
+1,S1_01,S1_01,Werkkracht,S1_01 - WerkkrachtS1_01 heeft zijn deel van de planning niet goed uitgewerkt en heeft hierdoor
+1,S1_01,S1_01,Teamspeler,S1_01 werkt vaak niet samen met het team. De communicatie is vaak moeilijk en hij ziet de activiteit
+1,S1_01,S1_02,Inhoudelijke inbreng,Inhoudelijke inbreng: S1_02 had weinig input over het design van het project. Ik heb regelmat
+1,S1_01,S1_02,Werkkracht,"De student was zeer nauwkeurig en veel gewerkt, ook veel werk gestoken in de presentatie. Hij kwam met"
+1,S1_01,S1_02,Teamspeler,S1_02 werkte samen met zijn medestudenten aan de gezamenlijke ontwikkeling. Hij was een teamspeler die
+1,S1_01,S1_03,Inhoudelijke inbreng,"S1_03Criterium: Inhoudelijke inbrengContext: presentatie- ""Bijna geen inbre"
+1,S1_01,S1_03,Werkkracht,Student S1_03 heeft bijna niet gewerkt aan de planning. Hij was niet nauwkeurig en kwam regelmat
+1,S1_01,S1_03,Teamspeler,S1_03 was zeer aanspreekbaar en werkte goed samen met het team. Hij communiceerde duidelijk over de
+1,S1_01,S1_04,Inhoudelijke inbreng,S1_04: De inbreng van S1_04 was zeer beperkt. Hij werkte niet aan het taalmodel
+1,S1_01,S1_04,Werkkracht,Deze student heeft in de implementatiefase van het project niet veel gewerkt aan het taalmodel. Hij kwam met enke
+1,S1_01,S1_04,Teamspeler,Deze student was een van de minder actieve leden in de groep. Hij was niet altijd aanspreekbaar en leek
+1,S1_01,S1_05,Inhoudelijke inbreng,"S1_05 werkte niet echt aan het dashboard, ik denk dat hij het niet begreep. Hij had ook moeite met"
+1,S1_01,S1_05,Werkkracht,De student heeft de afgelopen sessies niet voldoende gewerkt aan het datamodel. Het is opmerkelijk dat
+1,S1_01,S1_05,Teamspeler,"De studenten hebben een presentatie gedaan, waarbij ze hun eindproduct moesten presenteren aan de klas. Ik vond"
+1,S1_01,S1_06,Inhoudelijke inbreng,De student S1_06 heeft een heel goede inbreng op het vlak van inhoudelijke input. Veel gewerkt aan het al
+1,S1_01,S1_06,Werkkracht,S1_06 heeft veel werk gestoken in de presentatie en was zeer nauwkeurig. Zijn inbreng was reg
+1,S1_01,S1_06,Teamspeler,Student S1_06 werkte tijdens de brainstormsessies meestal op een laag tempo. De inbreng was niet altijd even
+1,S1_02,S1_01,Inhoudelijke inbreng,S1_01 werkte bijna niet aan het algoritme. Vaak foutjes gemaakt. Hij had geen duidelijke idee
+1,S1_02,S1_01,Werkkracht,"S1_01 was zeer nauwkeurig en veel gewerkt, ook veel werk gestoken in de presentatie. Hij wer"
+1,S1_02,S1_01,Teamspeler,"Inhoudelijke inbreng: S1_01 had een goede inbreng, hij werkte aan het taal-model en kw"
+1,S1_02,S1_02,Inhoudelijke inbreng,"Inhoudelijke inbreng: S1_02 heeft niet veel gewerkt aan het algoritme, veel fouten gemaakt en"
+1,S1_02,S1_02,Werkkracht,S1_02 heeft bijna niet gewerkt aan het datamodel. Hij kwam niet met veel nieuwe ideeën en had geen concrete
+1,S1_02,S1_02,Teamspeler,Deze student was een van de weinige die echt bijdroeg aan het project. Hij werkte regelmatig aan het taal
+1,S1_02,S1_03,Inhoudelijke inbreng,"S1_03 werkte in de werksessie zeer nauwkeurig en veel aan de output, maar was niet consequent"
+1,S1_02,S1_03,Werkkracht,S1_03 werkte zeer nauwkeurig en veel aan het eindverslag. S1_03 was verantwoord
+1,S1_02,S1_03,Teamspeler,"S1_03 werkte goed samen met teamleden, maar had moeite met het opvolgen van de planning. S1"
+1,S1_02,S1_04,Inhoudelijke inbreng,De inbreng van deze student in de werksessie over de website was heel beperkt. De student kwam met wein
+1,S1_02,S1_04,Werkkracht,S1_04 heeft veel gewerkt aan de documentatie en heeft dit goed gedaan. Het is echter jammer dat hij niet
+1,S1_02,S1_04,Teamspeler,Inhoudelijke inbrengDe student heeft een goede inbreng geleverd in de gesprekken over de planning en de
+1,S1_02,S1_05,Inhoudelijke inbreng,S1_05 heeft in de integratie een goede inbreng geleverd. Hij werkte regelmatig aan het algoritme
+1,S1_02,S1_05,Werkkracht,S1_05 werkte zeer nauwkeurig en veel gewerkt aan de analyses. De output was van hoge k
+1,S1_02,S1_05,Teamspeler,S1_05 was zeer aanspreekbaar en stond altijd klaar om te helpen met de activiteit. S1_
+1,S1_02,S1_06,Inhoudelijke inbreng,S1_06- Inhoudelijke inbreng: S1_06 kwam met een interessante aanpak voor het visualiser
+1,S1_02,S1_06,Werkkracht,"S1_06Criterium: WerkkrachtDe student heeft zeer nauwkeurig en veel gewerkt, ook"
+1,S1_02,S1_06,Teamspeler,S1_06 is een zeer aanspreekbare teamspeler die altijd bereid is om te helpen wanneer anderen vastz
+1,S1_03,S1_01,Inhoudelijke inbreng,"""Deze student heeft bijna niets bijgedragen aan de inhoudelijke inbreng van de sessie. De student leek niet"
+1,S1_03,S1_01,Werkkracht,S1_01 werkte zeer nauwkeurig en veel aan de documentatie. Hij kwam met goede ideeën voor het
+1,S1_03,S1_01,Teamspeler,Na de brainstormsessie van vandaag zag ik dat je moeite had om de input van anderen te integreren in je eigen idee
+1,S1_03,S1_02,Inhoudelijke inbreng,S1_02 was niet actief bij het scraping en kwam niet met veel nieuwe ideeën. Hij werkte regelmatig te
+1,S1_03,S1_02,Werkkracht,"Deze student werkte regelmatig aan het taal-model, maar kwam met weinig nieuwe ideeën. (Inh"
+1,S1_03,S1_02,Teamspeler,Deze student is een echte teamspeler en heeft de hele sessie heel goed samengewerkt met het team. Hij is heel
+1,S1_03,S1_03,Inhoudelijke inbreng,Inhoudelijke inbreng: S1_03 kwam met een interessante en creatieve oplossing voor het algoritme.
+1,S1_03,S1_03,Werkkracht,S1_03: WerkkrachtDe student werkte regelmatig te laat opdagen en leek niet geinteresseerd
+1,S1_03,S1_03,Teamspeler,De student heeft tijdens de werksessie regelmatig een nieuwe insteek voor uitwerking aangeleverd. De
+1,S1_03,S1_04,Inhoudelijke inbreng,S1_04Criterium: Inhoudelijke inbrengFeedback: S1_04 had een moeilijke tijd
+1,S1_03,S1_04,Werkkracht,Inhoudelijke inbreng: Deze student heeft bijna niet gewerkt aan het scraping algoritme. Vaak foutjes
+1,S1_03,S1_04,Teamspeler,S1_04 werkte goed samen tijdens activiteit. Hij was makkelijk om mee te werken en hielp anderen wanneer ze
+1,S1_03,S1_05,Inhoudelijke inbreng,Inhoudelijke inbreng: S1_05 had heel weinig input over de planning voor het project. Hij kwam no
+1,S1_03,S1_05,Werkkracht,S1_05Criterium: WerkkrachtContext: de implementatieDeze student is zeer nauwkeurig
+1,S1_03,S1_05,Teamspeler,"S1_05, bij de brainstormsessies werkte je goed samen met het team, altijd aanspreekbaar en hielp anderen w"
+1,S1_03,S1_06,Inhoudelijke inbreng,S1_06 werkte aan het taal-model en kwam met een nieuwe insteek voor de uitwerking. Hij werkte goed
+1,S1_03,S1_06,Werkkracht,"Uitstekende inbreng op het vlak van het algoritme, met een aantal goede ideeën voor de output. Werk"
+1,S1_03,S1_06,Teamspeler,"""Deze student was niet altijd aanspreekbaar en de communicatie was niet altijd duidelijk. Hij had weinig input over"
+1,S1_04,S1_01,Inhoudelijke inbreng,Student 1 heeft niet veel gewerkt aan het algoritme. Hij kwam regelmatig met foutieve input. Hij had niet
+1,S1_04,S1_01,Werkkracht,"S1_01 werkte nauwkeurig en veel aan de planning, waardoor de planning goed is opgesteld. Hij st"
+1,S1_04,S1_01,Teamspeler,"De student was niet echt aanspreekbaar, soms was hij niet op de hoogte van de activiteit en hij gaf geen tips"
+1,S1_04,S1_02,Inhoudelijke inbreng,"S1_02: ""Helemaal niet gewerkt aan het taal-model, al het werk viel op andere teamleden. Va"
+1,S1_04,S1_02,Werkkracht,"Het eindverslag laat zien dat je de taken hebt gedaan, maar het resultaat was niet optimaal. Je was wel"
+1,S1_04,S1_02,Teamspeler,De student S1_02 werkte goed samen tijdens de groepsdiscussies en was makkelijk aanspreekbaar. Hij
+1,S1_04,S1_03,Inhoudelijke inbreng,"S1_03, tijdens de debugging sessie was je zeer actief in het identificeren van fouten en kwam je met"
+1,S1_04,S1_03,Werkkracht,"S1_03, Werkkracht:Deze student is veel gewerkt aan het documentatie, maar was niet altijd klaar op tijd"
+1,S1_04,S1_03,Teamspeler,S1_03 is een zeer aanspreekbare teamspeler. Hij stond altijd klaar om te helpen met de activ
+1,S1_04,S1_04,Inhoudelijke inbreng,"Het was leuk om samen te werken met jou, maar je hebt niet echt een concrete bijdrage geleverd aan de AI-activiteit"
+1,S1_04,S1_04,Werkkracht,De student S1_04 heeft tijdens de presentatie de volgende sterke kanten getoond:- Hij was zeer nau
+1,S1_04,S1_04,Teamspeler,Feedback S1_04:- Inhoudelijke inbreng:     De inbreng van S1_04 was erg be
+1,S1_04,S1_05,Inhoudelijke inbreng,S1_05 heeft tijdens de data-analyse sessie een goede input geleverd voor de planning van het project. Ze kwam
+1,S1_04,S1_05,Werkkracht,S1_05 werkt zeer nauwkeurig en veel aan de documentatie. S1_05 werkt nauwke
+1,S1_04,S1_05,Teamspeler,"Het was een leuke groep om mee te werken. Ik heb heel veel van je geleerd, vooral over de verschillende man"
+1,S1_04,S1_06,Inhoudelijke inbreng,- Inhoudelijke inbreng:            S1_06 had weinig input over het project. Zijn bijdrage aan de
+1,S1_04,S1_06,Werkkracht,S1_06 - WerkkrachtHet was niet duidelijk of je wel geïnteresseerd was in het project en je
+1,S1_04,S1_06,Teamspeler,"S1_06 was een teamspeler, hij werkte goed samen met het team en was makkelijk aanspreekbaar. Hij"
+1,S1_05,S1_01,Inhoudelijke inbreng,Inhoudelijke inbreng: S1_01 werkte niet echt mee aan het project. Hij had niet echt een oplossing
+1,S1_05,S1_01,Werkkracht,S1_01 werkte niet erg nauwkeurig en was niet echt betrokken bij de activiteit. Ik zag hem niet echt
+1,S1_05,S1_01,Teamspeler,Feedback over student S1_01:- S1_01 werkte tijdens de planning activiteit heel goed samen met het hele team. Ze
+1,S1_05,S1_02,Inhoudelijke inbreng,S1_02:Inhoudelijke inbreng: Veel gewerkt aan het algoritme en kwam met interessante ide
+1,S1_05,S1_02,Werkkracht,S1_02 kwam met een interessante insteek voor de presentatie.  Het was duidelijk dat S1_02 veel
+1,S1_05,S1_02,Teamspeler,S1_02 werkte tijdens de activiteit goed samen met het team. Het was makkelijk om contact te maken met hem en hij
+1,S1_05,S1_03,Inhoudelijke inbreng,"Inhoudelijke inbreng: S1_03 had veel input over planning voor het project, maar kwam niet met veel nieuwe inbre"
+1,S1_05,S1_03,Werkkracht,"S1_03, Tijdens de analyses had je veel moeite om de data correct te interpreteren. Je kwam met een"
+1,S1_05,S1_03,Teamspeler,In het team was je zeer aanspreekbaar en stond je altijd klaar om te helpen met activiteit. Je werkte
+1,S1_05,S1_04,Inhoudelijke inbreng,S1_04 werkte heel nauwkeurig en veel aan het taal-model. Ze kwam met goede ideeën voor testing
+1,S1_05,S1_04,Werkkracht,De student heeft zich niet volledig ingezet voor het project. Hij kwam regelmatig te laat opdagen en leek
+1,S1_05,S1_04,Teamspeler,De student S1_04 heeft bij de planning een redelijke bijdrage geleverd. Hij had een goed idee voor de planning maar
+1,S1_05,S1_05,Inhoudelijke inbreng,S1_05 heeft een grote inbreng gehad op het project en werkte samen met anderen om een goed algoritme te ontw
+1,S1_05,S1_05,Werkkracht,S1_05: WerkkrachtEr was veel werk gestoken in de presentatie en de output. De berekeningen waren nau
+1,S1_05,S1_05,Teamspeler,S1_05 was een geweldige teamspeler. Hij stond altijd klaar om te helpen en was aanspreekbaar
+1,S1_05,S1_06,Inhoudelijke inbreng,S1_06 is een student die weinig bijdroeg aan de planning voor het project. Hoewel hij regelmatig een
+1,S1_05,S1_06,Werkkracht,S1_06 werkte regelmatig een nieuwe insteek voor uitwerking van de analyses. De output van S1_06
+1,S1_05,S1_06,Teamspeler,Deze student was heel aanspreekbaar en had een makkelijke communicatie met het team. Ze was van alles op de hoogte
+1,S1_06,S1_01,Inhoudelijke inbreng,1. S1_01 heeft bijna niet gewerkt aan het scraping algoritme. Vaak foutjes gemaakt.2. S
+1,S1_06,S1_01,Werkkracht,De student S1_01 heeft in de werksessie zeer nauwkeurig en veel gewerkt aan het ontwerp.
+1,S1_06,S1_01,Teamspeler,"Uw feedback over de student S1_01 is:- Teamspeler: ""S1_01 werkte goed samen met het team"
+1,S1_06,S1_02,Inhoudelijke inbreng,"- Inhoudelijke inbreng: ""De studenten hebben het algoritme gedeeltelijk kunnen implementeren dankzij de goede"
+1,S1_06,S1_02,Werkkracht,S1_02 werkte zeer nauwkeurig en veel gewerkt aan output. In de presentatie kwam S1_
+1,S1_06,S1_02,Teamspeler,S1_02 was niet altijd aanspreekbaar tijdens de activiteit. Soms kwam hij te laat opdagen en was
+1,S1_06,S1_03,Inhoudelijke inbreng,"S1_03: - Inhoudelijke inbreng: ""Zeer weinig inbreng in het project, meest"
+1,S1_06,S1_03,Werkkracht,"S1_03WerkkrachtS1_03 heeft niet genoeg gewerkt aan het algoritme, wat tot"
+1,S1_06,S1_03,Teamspeler,Deze student was zeer aanspreekbaar tijdens de activiteit en werkte goed samen met het hele team. Hij stond altijd
+1,S1_06,S1_04,Inhoudelijke inbreng,Bij de werksessie is de student S1_04 goed in staat geweest om het debugging proces te begrijpen. Hij
+1,S1_06,S1_04,Werkkracht,S1_04 kwam met een aantal interessante ideeën voor de presentatie. Hij was niet altijd even snel klaar met zijn onder
+1,S1_06,S1_04,Teamspeler,- Werkkracht:   - De student heeft niet veel gewerkt aan de output van het project. Vaak kwam hij niet
+1,S1_06,S1_05,Inhoudelijke inbreng,S1_05 heeft veel gewerkt aan het scraping algoritme. De output van het algoritme is echter niet goed.
+1,S1_06,S1_05,Werkkracht,"S1_05, je hebt heel veel gewerkt aan het ontwerp en kwam met verschillende nieuwe ideeën. De presentatie"
+1,S1_06,S1_05,Teamspeler,In deze sessie was hij niet aanspreekbaar en kwam hij regelmatig te laat opdagen. Hij leek niet
+1,S1_06,S1_06,Inhoudelijke inbreng,"S1_06 was in het begin wat afwezig, maar gaf later heel veel input met rekenen. S1_06 kw"
+1,S1_06,S1_06,Werkkracht,"- Werkkracht: ""had niet zo veel tijd om te werken aan de planning, maar heeft er dan wel veel tijd in gestoken om"
+1,S1_06,S1_06,Teamspeler,S1_06 was een goede teamspeler tijdens de groepsdiscussies. Hij was altijd aanspreekbaar en gaf
