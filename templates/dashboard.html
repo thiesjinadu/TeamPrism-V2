@@ -1,165 +1,40 @@
-{% extends "base.html" %}
-
-{% block title %}Dashboard - Feedback Analysis{% endblock %}
-
-{% block content %}
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    <!-- Overview Cards -->
-    <div class="bg-white overflow-hidden shadow rounded-lg">
-        <div class="p-5">
-            <div class="flex items-center">
-                <div class="flex-shrink-0">
-                    <svg class="h-6 w-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
-                    </svg>
-                </div>
-                <div class="ml-5 w-0 flex-1">
-                    <dl>
-                        <dt class="text-sm font-medium text-gray-500 truncate">
-                            Total Students
-                        </dt>
-                        <dd class="flex items-baseline">
-                            <div class="text-2xl font-semibold text-gray-900">
-                                {{ stats.total_students }}
-                            </div>
-                        </dd>
-                    </dl>
-                </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Analysis Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold mb-8">Feedback Analysis Dashboard</h1>
+        
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div class="bg-white p-6 rounded-lg shadow">
+                <h2 class="text-xl font-semibold mb-4">Total Students</h2>
+                <p class="text-3xl font-bold text-blue-600">0</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow">
+                <h2 class="text-xl font-semibold mb-4">Total Groups</h2>
+                <p class="text-3xl font-bold text-green-600">0</p>
+            </div>
+            <div class="bg-white p-6 rounded-lg shadow">
+                <h2 class="text-xl font-semibold mb-4">Total Feedback</h2>
+                <p class="text-3xl font-bold text-purple-600">0</p>
             </div>
         </div>
-    </div>
 
-    <div class="bg-white overflow-hidden shadow rounded-lg">
-        <div class="p-5">
-            <div class="flex items-center">
-                <div class="flex-shrink-0">
-                    <svg class="h-6 w-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
-                    </svg>
-                </div>
-                <div class="ml-5 w-0 flex-1">
-                    <dl>
-                        <dt class="text-sm font-medium text-gray-500 truncate">
-                            Total Groups
-                        </dt>
-                        <dd class="flex items-baseline">
-                            <div class="text-2xl font-semibold text-gray-900">
-                                {{ stats.total_groups }}
-                            </div>
-                        </dd>
-                    </dl>
-                </div>
-            </div>
+        <div class="bg-white p-6 rounded-lg shadow mb-8">
+            <h2 class="text-xl font-semibold mb-4">Recent Activity</h2>
+            <p class="text-gray-600">No recent activity to display.</p>
+        </div>
+
+        <div class="flex justify-end">
+            <a href="/upload" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600">
+                Upload New Data
+            </a>
         </div>
     </div>
-
-    <div class="bg-white overflow-hidden shadow rounded-lg">
-        <div class="p-5">
-            <div class="flex items-center">
-                <div class="flex-shrink-0">
-                    <svg class="h-6 w-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" />
-                    </svg>
-                </div>
-                <div class="ml-5 w-0 flex-1">
-                    <dl>
-                        <dt class="text-sm font-medium text-gray-500 truncate">
-                            Total Feedback
-                        </dt>
-                        <dd class="flex items-baseline">
-                            <div class="text-2xl font-semibold text-gray-900">
-                                {{ stats.total_feedback }}
-                            </div>
-                        </dd>
-                    </dl>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Charts Section -->
-<div class="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-6">
-    <!-- Feedback Distribution Chart -->
-    <div class="bg-white shadow rounded-lg p-6">
-        <h3 class="text-lg font-medium text-gray-900 mb-4">Feedback Distribution</h3>
-        <canvas id="feedbackDistributionChart"></canvas>
-    </div>
-
-    <!-- Group Performance Chart -->
-    <div class="bg-white shadow rounded-lg p-6">
-        <h3 class="text-lg font-medium text-gray-900 mb-4">Group Performance</h3>
-        <canvas id="groupPerformanceChart"></canvas>
-    </div>
-</div>
-
-<!-- Analysis Results -->
-<div class="mt-8">
-    <div class="bg-white shadow rounded-lg">
-        <div class="px-4 py-5 sm:p-6">
-            <h3 class="text-lg font-medium text-gray-900 mb-4">Key Insights</h3>
-            <div class="prose max-w-none">
-                {% for insight in insights %}
-                <div class="mb-4">
-                    <h4 class="text-md font-medium text-gray-900">{{ insight.title }}</h4>
-                    <p class="text-gray-600">{{ insight.description }}</p>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-</div>
-{% endblock %}
-
-{% block scripts %}
-<script>
-    // Feedback Distribution Chart
-    const feedbackCtx = document.getElementById('feedbackDistributionChart').getContext('2d');
-    new Chart(feedbackCtx, {
-        type: 'pie',
-        data: {
-            labels: {{ feedback_distribution.labels | tojson }},
-            datasets: [{
-                data: {{ feedback_distribution.data | tojson }},
-                backgroundColor: [
-                    '#2ecc71',
-                    '#e74c3c',
-                    '#95a5a6',
-                    '#3498db'
-                ]
-            }]
-        },
-        options: {
-            responsive: true,
-            plugins: {
-                legend: {
-                    position: 'bottom'
-                }
-            }
-        }
-    });
-
-    // Group Performance Chart
-    const groupCtx = document.getElementById('groupPerformanceChart').getContext('2d');
-    new Chart(groupCtx, {
-        type: 'bar',
-        data: {
-            labels: {{ group_performance.labels | tojson }},
-            datasets: [{
-                label: 'Average Score',
-                data: {{ group_performance.data | tojson }},
-                backgroundColor: '#3498db'
-            }]
-        },
-        options: {
-            responsive: true,
-            scales: {
-                y: {
-                    beginAtZero: true,
-                    max: 100
-                }
-            }
-        }
-    });
-</script>
-{% endblock %} 
+</body>
+</html> 
